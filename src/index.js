@@ -30,7 +30,7 @@ const showSpendingAndBalance = (data) => {
 
 const getData = async () => {
 	try {
-		const response = await fetch('../data/data.json');
+		const response = await fetch('./data/data.json');
 		const data = await response.json();
 
 		if (response.ok) {
