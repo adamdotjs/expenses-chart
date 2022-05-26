@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/adamdotjs/expenses-chart)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/adamdotjs/expenses-chart/)
+- [Live Site URL](https://adamdotjs.github.io/expenses-chart/)
 
 ## My process
 
